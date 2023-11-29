@@ -1,0 +1,3 @@
+id,name,description,tags,is_subcategory,version
+weapon,weapon_name,weapon_desc,"[""one"",""two""]",No,1
+weapon_sub1,weapon_sub1_name,weapon_sub1_desc,[],True,1
